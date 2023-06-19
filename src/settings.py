@@ -12,7 +12,7 @@ PROJECT_NAME_FULL: str = "Animals Computer Vision Project"
 # * After uploading to instance ##
 ##################################
 LICENSE: License = License.CC_BY_4_0()
-INDUSTRIES: List[Industry] = [Industry.Tourism()]
+INDUSTRIES: List[Industry] = [Industry.Eco()]
 CV_TASKS: List[CVTask] = [CVTask.ObjectDetection()]
 ANNOTATION_TYPES: List[AnnotationType] = [AnnotationType.ObjectDetection()]
 
