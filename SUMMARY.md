@@ -1,4 +1,4 @@
-**Animals Computer Vision Project** is a dataset for object detection tasks. It could be used for wildlife conservation and monitoring, eco-tourism, wildlife documentary, wildlife corridor planning, educational purposes and others.
+**Animals Computer Vision Project** is a dataset for object detection tasks. It is used in the eco industry.
 
 The dataset consists of 947 images with 8861 labeled objects belonging to 3 different classes including *Giraffe*, *Elephant*, and *Zebra*.
 
