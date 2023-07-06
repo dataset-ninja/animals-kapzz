@@ -1,6 +1,6 @@
 Dataset **Animals (kapzz)** can be downloaded in Supervisely format:
 
- [Download](https://assets.supervise.ly/supervisely-supervisely-assets-public/teams_storage/C/v/f7/Ti7Mt9KS7FYSIXOey6Zo4bZiAqJRZysYO3jvN2NoRXn4OEFDpgsMORR8fJya7tqW0pmPT23j55b0Cnyd1SN9IpAZn5JFbtGa7wlExEOhJGEmEWqmZlhSVd7TVLay.tar)
+ [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/5/O/KE/rmUrFVQCChTEmtpm3FFJOY9XAPln5Rl5yZKIy4p7uQ3XqIXwRFgHIwz45YFkb9X6MtQOx7wmteJVw0y2gnsqxEzEz8O7oKtcO5MIjiIAUL5Kzkns8eqcRX2AxPUJ.tar)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
